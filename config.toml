@@ -1,0 +1,14 @@
+baseURL = "http://brtech.ie/"
+languageCode = "pt-br"
+theme = "ronu-hugo-theme"
+
+title = "Tech para brasileiros na Ilha Esmeralda"
+
+
+[[menu.main]]
+	name = "Blog"
+	url = "/blog/"
+
+[[menu.main]]
+	name = "Sobre"
+	url = "/sobre/"
