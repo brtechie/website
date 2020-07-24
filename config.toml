@@ -1,4 +1,4 @@
-baseURL = "http://www.brtech.ie/"
+baseURL = "https://www.brtech.ie/"
 languageCode = "pt-br"
 theme = "ronu-hugo-theme"
 
