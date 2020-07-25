@@ -17,7 +17,7 @@ Outros amigos que ficavam oncall por 24 horas na Amazon recebiam um extra financ
 
 Na Stripe o formato do oncall é de 24 horas também, mas sem nenhum incentivo financeiro. Porém as horas trabalhadas podem ser recuperadas. Por exemplo: recebi uma notificação que tenho que trabalhar e demorou uma hora para consertar o problema, então tenho direito de pegar uma hora em algum outro dia.
 
-Um ponto importante da lei irlandesa é que todo empregado tem o direito de 11 horas consecutivas de descanso em um período de 24 horas ("11.—An employee shall be entitled to a rest period of not less than 11 consecutive hours in each period of 24 hours during which he or she works for his or her employer"). Então se eu for acordado meia-noite, eu deveria começar a trabalhar no outro dia pelo menos as 11 horas da manhã.
+Um ponto importante da lei irlandesa é que todo empregado tem o direito de 11 horas consecutivas de descanso em um período de 24 horas ("11.—An employee shall be entitled to a rest period of not less than 11 consecutive hours in each period of 24 hours during which he or she works for his or her employer").
 
 Nas duas empresas, estar de plantão nunca significou resolver o problema sozinho, mas avaliar o que está acontecendo. Se você consegue resolver, ótimo, mas caso não saiba ou precise de ajuda dado o volume de problemas, sempre há um caminho claro de quem você deve notificar. No geral, o conselho era: se em dúvida, notifica outra pessoa.
 
