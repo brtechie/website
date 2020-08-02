@@ -5,7 +5,7 @@ draft: false
 description: "O que é o plantão? Quais direitos? Como funciona?"
 author:
   name: Era
-  site: https://www.anarchist.work
+  site: https://wiki.anarchist.work
 tags:
 ---
 

@@ -1,12 +1,19 @@
 baseURL = "https://www.brtech.ie/"
 languageCode = "pt-br"
 theme = "ronu-hugo-theme"
-
 title = "Tech para brasileiros na Ilha Esmeralda"
+
+[params]
+	mainSections = ["direitos", "entrevistas"]
+	
 
 [[menu.main]]
 	name = "RSS"
 	url = "https://www.brtech.ie/index.xml"
+
+[[menu.main]]
+	name = "Entrevistas"
+	url = "/entrevistas/"
 
 [[menu.main]]
 	name = "Direitos trabalhistas"

@@ -4,7 +4,8 @@ date: 2020-07-24T22:14:48+01:00
 draft: false
 author:
   name: Era
-  site: https://www.anarchist.work
+  site: https://wiki.anarchist.work
+tags: ["direitos"]
 ---
 
 A ideia do blog é coletar dicas e artigos sobre trabalhar com tecnologia na Irlanda. As dicas variam entre: entrevistas, temas de estudo, grupos de ajuda, direito trabalhista na Irlanda, entre outros.
