@@ -2,9 +2,6 @@ baseURL = "https://www.brtech.ie/"
 languageCode = "pt-br"
 theme = "hugo-bearblog"
 title = "Tech para brasileiros na Ilha Esmeralda"
-
-[params]
-	mainSections = ["direitos", "entrevistas"]
 	
 
 [[menu.main]]
@@ -14,11 +11,3 @@ title = "Tech para brasileiros na Ilha Esmeralda"
 [[menu.main]]
 	name = "Entrevistas"
 	url = "/entrevistas/"
-
-[[menu.main]]
-	name = "Direitos trabalhistas"
-	url = "/direitos/"
-
-[[menu.main]]
-	name = "Sobre"
-	url = "/sobre/"
