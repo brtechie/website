@@ -9,5 +9,5 @@ title = "Tech para brasileiros na Ilha Esmeralda"
 	url = "https://www.brtech.ie/index.xml"
 
 [[menu.main]]
-	name = "Entrevistas"
-	url = "/entrevistas/"
+	name = "Direitos Trabalhistas"
+	url = "/direitos/"
