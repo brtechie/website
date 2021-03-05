@@ -1,6 +1,6 @@
 baseURL = "https://www.brtech.ie/"
 languageCode = "pt-br"
-theme = "ronu-hugo-theme"
+theme = "hugo-bearblog"
 title = "Tech para brasileiros na Ilha Esmeralda"
 
 [params]
