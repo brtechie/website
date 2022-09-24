@@ -1,13 +1,9 @@
-baseURL = "https://www.brtech.ie/"
+baseURL = "https://br.elias.sh/"
 languageCode = "pt-br"
 theme = "hugo-bearblog"
 title = "Tech para brasileiros na Ilha Esmeralda"
-	
+
 
 [[menu.main]]
-	name = "RSS"
-	url = "https://www.brtech.ie/index.xml"
-
-[[menu.main]]
-	name = "Direitos Trabalhistas"
-	url = "/direitos/"
+name = "RSS"
+url = "https://br.elias.sh/index.xml"
