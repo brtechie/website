@@ -24,4 +24,5 @@ Para estudar para esses temas eu uso:
 1. [Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems](https://amzn.to/3rwGNcF): Eu gosto desse livro para me aprofundar em temas de design the sistemas. Eu já li o livro algumas vezes, então eu leio capitulos especificos que eu sinto que nao lembro o suficiente dos detalhes
 1. [leetcode](https://leetcode.com): Leetcode é um site onde você pode praticar resolver problemas bem parecidos com os das entrevistas. Eu fico resolvendo somente os médio e fáceis. Eu não vejo muita utilidade nos mais difíceis.
 
+
 [^mestrado]: Digo no mestrado porque tive que usar muita estrutura de dados e algoritmos na entrevista e isso eu aprendi de maneira aprofundada na Unicamp.
