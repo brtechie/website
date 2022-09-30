@@ -7,6 +7,6 @@ Todos os textos no blog podem ser copiados, desde que sigam a [licença Atribui�
 1. Instagram do blog: @[code_elias_code](https://www.instagram.com/code_elias_code/)
 1. Meu site em inglês: [elias.sh](https://www.elias.sh)
 1. Software que eu escrevo: [codeberg/era](https://codeberg.org/era)
-1. Meu twich: [code_elias_code](https://www.twitch.tv/code_elias_code)
+1. Meu twitch: [code_elias_code](https://www.twitch.tv/code_elias_code)
 1. Meu Jardim Digital: [wiki.anarchist.work](https://wiki.anarchist.work)
 
