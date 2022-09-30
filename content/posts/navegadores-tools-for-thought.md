@@ -1,5 +1,5 @@
 ---
-title: "Nevagadores, muito mais que apenas consumo"
+title: "Navegadores, muito mais que apenas consumo"
 date: 2022-09-30T07:44:22+01:00
 draft: false
 author:
