@@ -1,7 +1,7 @@
 baseURL = "https://br.elias.sh/"
 languageCode = "pt-br"
 theme = "hugo-bearblog"
-title = "Tech para brasileiros na Ilha Esmeralda"
+title = "Code Elias Code"
 
 
 [[menu.main]]

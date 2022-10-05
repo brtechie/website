@@ -1,4 +1,4 @@
-Blog para coletar dicas e artigos sobre trabalhar com tecnologia na Irlanda. As dicas variam entre: entrevistas, temas de estudo, grupos de ajuda, direito trabalhista na Irlanda, entre outros. O blog tenta trazer tecnologia de um ponto de vista de criação e não somente de consumo.
+Blog para coletar dicas e artigos sobre trabalhar com tecnologia na Irlanda e sobre tecnologia em geral. As dicas variam entre: entrevistas, temas de estudo, grupos de ajuda, direito trabalhista na Irlanda, entre outros. O blog tenta trazer tecnologia de um ponto de vista de criação e não somente de consumo.
 
 O site é editado por [Elias](https://www.elias.sh).
 
